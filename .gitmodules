@@ -1,3 +1,6 @@
+[submodule "pack/vendor/opt/Tsuquyomi"]
+	path = pack/vendor/opt/Tsuquyomi
+	url = https://github.com/Quramy/tsuquyomi.git
 [submodule "pack/vendor/start/solarized"]
 	path = pack/vendor/start/solarized
 	url = https://github.com/altercation/vim-colors-solarized
@@ -31,12 +34,6 @@
 [submodule "pack/vendor/start/ack"]
 	path = pack/vendor/start/ack
 	url = https://github.com/mileszs/ack.vim.git
-[submodule "pack/vendor/opt/ts"]
-	path = pack/vendor/opt/ts
-	url = https://github.com/neoclide/coc.nvim
 [submodule "pack/vendor/opt/ts-vim"]
 	path = pack/vendor/opt/ts-vim
 	url = https://github.com/leafgarland/typescript-vim
-[submodule "pack/vendor/opt/Tsuquyomi"]
-	path = pack/vendor/opt/Tsuquyomi
-	url = https://github.com/Quramy/tsuquyomi.git
